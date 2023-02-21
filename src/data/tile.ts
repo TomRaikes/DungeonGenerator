@@ -1,0 +1,1 @@
+//available: boolean, door: {direction: string, locked: boolean}}

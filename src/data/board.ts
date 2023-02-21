@@ -1,0 +1,1 @@
+//Array<{id: number, cells:Array<{id: number, location: {x: number, y: number}, available: boolean, door: {direction: string, locked: boolean}}>}>

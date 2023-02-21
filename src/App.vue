@@ -7,7 +7,7 @@ import ATile from './components/ATile.vue'
   <header>
   </header>
 
-  <RouterView style="background-color: black;" />
+  <RouterView/>
 </template>
 
 <style scoped>
