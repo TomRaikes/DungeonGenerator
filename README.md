@@ -1,4 +1,10 @@
 # DungeonGenerator
+Very simple 2D dungeon generator for Dungeons n Dragons, will eventually have the following features:
+- Random generation of mobs/enemies/chests/loot
+- Ability to define what loot should be in the dungeon to help the DM out ;)
+- Save state of game to pick up again at a later point
+- Graphics! Sounds?!
+
 Yeah I know using vue is probably a bit overkill for this right now but think of the extensibility down the line!
 
 ## How to run
