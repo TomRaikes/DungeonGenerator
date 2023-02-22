@@ -36,9 +36,14 @@ export default {
 
 <style scoped>
 .tile {
-  
   border: 1px solid red;
   width: 100%;
-  height: 100%;
+  aspect-ratio : 1 / 1;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+  font-size: small;
 }
 </style>
